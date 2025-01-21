@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/acd35b395acd4145a34f8ce824e658ba/artifacts
+end_time: 1737355866707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acd35b395acd4145a34f8ce824e658ba
+run_name: whimsical-lynx-985
+run_uuid: acd35b395acd4145a34f8ce824e658ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737355864894
+status: 3
+tags: []
+user_id: HARSH

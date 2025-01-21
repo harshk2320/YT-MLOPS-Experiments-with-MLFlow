@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/589297827560316718/08279d9446e54f53ba2ff8cd7454af1e/artifacts
+end_time: 1737356496858
+entry_point_name: ''
+experiment_id: '589297827560316718'
+lifecycle_stage: active
+run_id: 08279d9446e54f53ba2ff8cd7454af1e
+run_name: rebellious-shrew-607
+run_uuid: 08279d9446e54f53ba2ff8cd7454af1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737356495463
+status: 3
+tags: []
+user_id: HARSH

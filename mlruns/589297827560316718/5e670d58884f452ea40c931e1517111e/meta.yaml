@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/589297827560316718/5e670d58884f452ea40c931e1517111e/artifacts
+end_time: 1737358146180
+entry_point_name: ''
+experiment_id: '589297827560316718'
+lifecycle_stage: active
+run_id: 5e670d58884f452ea40c931e1517111e
+run_name: amusing-croc-25
+run_uuid: 5e670d58884f452ea40c931e1517111e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737358132143
+status: 3
+tags: []
+user_id: HARSH

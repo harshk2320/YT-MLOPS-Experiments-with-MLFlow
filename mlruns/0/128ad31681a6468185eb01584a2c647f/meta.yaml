@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/128ad31681a6468185eb01584a2c647f/artifacts
+end_time: 1737336874316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 128ad31681a6468185eb01584a2c647f
+run_name: bold-bear-602
+run_uuid: 128ad31681a6468185eb01584a2c647f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737336874094
+status: 3
+tags: []
+user_id: HARSH
